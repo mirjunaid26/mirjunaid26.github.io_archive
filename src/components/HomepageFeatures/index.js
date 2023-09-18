@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Mission',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Promote scientific computing by offering its users advanced and shared computing resources for supercomputing and data exploitation.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Services',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Access to hours of CPU and GPU computing for sequential and parallel computing alongwith high-performance and volumetric data storage.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Users',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+There are around 400 to 500 active users in GLiCID which inlcude reserachers from all laboratories in the region from all disciplines.
       </>
     ),
   },

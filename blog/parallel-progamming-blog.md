@@ -1,6 +1,6 @@
 ---
 slug: long-blog-post
-title: Long Blog Post
+title: Parallel Programming CUDA(Python/C++)
 authors: endi
 tags: [hello, docusaurus]
 ---

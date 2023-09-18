@@ -1,8 +1,22 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
-# Congratulations!
+# GUIX
+
+### Conda Basics
+Verify conda is installed & check version number
+```
+conda info
+```
+Update conda to the latest version
+```
+conda update conda
+```
+Install a package included in Anaconda
+```
+conda install PACKAGENAME
+```
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 
