@@ -5,7 +5,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const organizationName = "mirjunaid26";
-const projectName = "tutorials-hpc-ecn";
+const projectName = "mirjunaid26.github.io";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,7 +14,7 @@ const config = {
   favicon: 'img/glicid-logo.png', 
 
   // Set the production url of your site here
-  url: 'https://mirjunaid26.github.io/',
+  url: 'https://github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -22,9 +22,9 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mirjunaid26', // Usually your GitHub org/user name.
-  projectName: 'tutorials-hpc-ecn', // Usually your repo name.
+  projectName: 'mirjunaid26.github.io', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
